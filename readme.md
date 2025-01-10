@@ -10,6 +10,6 @@ This is a list
 * Three
 
 ## Code Block
-'''
+```
 print("hello world")
-'''
+```
